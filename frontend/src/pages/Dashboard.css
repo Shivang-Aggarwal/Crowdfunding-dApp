@@ -1,0 +1,18 @@
+.style-dashboard-main {
+  background-color: #F0F5F9;
+  padding-top: 2em;
+  padding-bottom: 10em;
+  padding-left: 10em;
+  padding-right: 10em;
+  font-family: 'Merriweather', serif;
+}
+
+.style-dashboard-table {
+  text-align: center;
+  margin: auto;
+}
+
+.style-card-body {
+  color: white;
+  background-color: #52616B;
+}

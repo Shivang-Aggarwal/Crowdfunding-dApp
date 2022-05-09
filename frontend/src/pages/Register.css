@@ -1,0 +1,15 @@
+.style-register-main {
+  padding-top: 1rem;
+  text-align: center;
+}
+
+.style-register-form {
+  width: 40rem;
+  height: 40rem;
+  padding: 3em;
+  border: 3px solid black;
+  border-radius: 5%;
+  margin: auto;
+  text-align: left;
+  background-color: #DDDDDD;
+}

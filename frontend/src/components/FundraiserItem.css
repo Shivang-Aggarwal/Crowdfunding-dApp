@@ -1,0 +1,27 @@
+.style-fundraiserComponent-project-body {
+  text-align: center;
+  background-color: #f0f5f9;
+}
+
+.style-fundraiserComponent-project-info {
+  margin-bottom: 2em;
+  background-color: #c9d6df;
+  padding: 1.5em;
+  border-radius: 15px;
+  border: 3px solid #52616b;
+}
+
+.style-fundraiserComponent-project-image {
+  height: 16em;
+  width: 28em;
+  border-radius: 15px;
+}
+
+.style-fundraiserComponent-project-heading {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+.style-fundraiserComponent-project-description {
+  font-family: "Merriweather", serif;
+}
